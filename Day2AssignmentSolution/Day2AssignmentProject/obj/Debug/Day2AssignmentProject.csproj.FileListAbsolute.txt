@@ -5,3 +5,10 @@ C:\Users\Divya\source\repos\DevOps\AssignmentDay2\Day2AssignmentSolution\Day2Ass
 C:\Users\Divya\source\repos\DevOps\AssignmentDay2\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.csproj.CoreCompileInputs.cache
 C:\Users\Divya\source\repos\DevOps\AssignmentDay2\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.exe
 C:\Users\Divya\source\repos\DevOps\AssignmentDay2\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.pdb
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\bin\Debug\Day2AssignmentProject.exe.config
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\bin\Debug\Day2AssignmentProject.exe
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\bin\Debug\Day2AssignmentProject.pdb
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.csprojAssemblyReference.cache
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.csproj.CoreCompileInputs.cache
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.exe
+D:\Gouvtham\Training\GitDay2Question\clonerepo\Day2Question\Day2AssignmentSolution\Day2AssignmentProject\obj\Debug\Day2AssignmentProject.pdb
