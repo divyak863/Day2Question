@@ -31,7 +31,10 @@ namespace Day2AssignmentProject
             while (min <= max)
             {
                 if (FindPrimeOrNot(min) == true)
-                    Console.WriteLine(min);
+                {
+
+                }
+                   
                 min++;
             }
            
