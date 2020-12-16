@@ -1,4 +1,4 @@
-input:
+input1:
  please enter the minimum number:2
  please enter the maximum number10
 ouput
@@ -6,3 +6,9 @@ ouput
 3
 5
 7
+input2:
+ please enter the minimum number:10
+ please enter the maximum number:15
+ouput
+11
+13
