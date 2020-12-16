@@ -1,0 +1,8 @@
+input:
+ please enter the minimum number:2
+ please enter the maximum number10
+ouput
+2
+3
+5
+7
