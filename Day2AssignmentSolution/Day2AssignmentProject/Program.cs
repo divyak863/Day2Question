@@ -32,12 +32,12 @@ namespace Day2AssignmentProject
             {
                 if (FindPrimeOrNot(min) == true)
                 {
-
+                    Console.Write(min+" ");
                 }
                    
                 min++;
             }
-           
+      
            
         }
         static void Main(string[] args)
